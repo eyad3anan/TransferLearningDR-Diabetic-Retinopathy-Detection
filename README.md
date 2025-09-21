@@ -4,6 +4,11 @@ TransferLearningDR is a deep learning project that uses **transfer learning with
 It demonstrates a complete **end-to-end computer vision workflow** including **dataset preparation, augmentation, EfficientNet fine-tuning, evaluation, and deployment with Streamlit & Hugging Face**.
 
 ---
+## **Demo**
+
+![App Demo](https://github.com/rawan-alwadiya/TransferLearningDR/blob/main/TransferLearningDR_App.png)  
+![No DR Example](https://github.com/rawan-alwadiya/TransferLearningDR/blob/main/No_DR.png)  
+![DR Example](https://github.com/rawan-alwadiya/TransferLearningDR/blob/main/DR.png)
 
 ## **Project Overview**
 
