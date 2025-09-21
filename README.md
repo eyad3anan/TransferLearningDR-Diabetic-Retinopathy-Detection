@@ -5,16 +5,6 @@ It demonstrates a complete **end-to-end computer vision workflow** including **d
 
 ---
 
-## **Demo**
-- 🌐 [Try the App Live on Streamlit](https://transferlearningdr-httrdrrzqndfzqbyak8wkc.streamlit.app/)  
-- 🤗 [Explore on Hugging Face](https://huggingface.co/RawanAlwadeya/TransferLearningDR)
-
-![App Demo](https://github.com/rawan-alwadiya/TransferLearningDR/blob/main/TransferLearningDR_App.png)  
-![No DR Example](https://github.com/rawan-alwadiya/TransferLearningDR/blob/main/No_DR.png)  
-![DR Example](https://github.com/rawan-alwadiya/TransferLearningDR/blob/main/DR.png)
-
----
-
 ## **Project Overview**
 
 The workflow includes:  
@@ -69,14 +59,6 @@ Develop and deploy a robust **transfer learning model** to detect Diabetic Retin
 - **F1-score**: `98.2%`
 
 The model achieved **high precision and recall**, ensuring reliable DR detection while minimizing false positives.
-
----
-
-## **Project Links**
-
-- **Kaggle Notebook**: [View on Kaggle](https://www.kaggle.com/code/rawanalwadeya/transferlearningdr-diabetic-retinopathy-detection)  
-- **Streamlit App**: [Try it Now](https://transferlearningdr-httrdrrzqndfzqbyak8wkc.streamlit.app/)  
-- **Hugging Face Repo**: [Explore on Hugging Face](https://huggingface.co/RawanAlwadeya/TransferLearningDR)  
 
 ---
 
